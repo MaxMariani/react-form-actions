@@ -1,6 +1,20 @@
 {
   "opinions": [
     {
+      "id": 1744993134656,
+      "votes": 1,
+      "userName": "OpinionBoar",
+      "title": "Strong opinions, judged by anonymous internet",
+      "body": "OpinionBoard Strong opinions, judged by anonymous internet users. What could possibly go wrong?"
+    },
+    {
+      "id": 1744992920836,
+      "votes": 0,
+      "userName": "OpinionBoard",
+      "title": "Strong opinions, judged by anonymous internet",
+      "body": "OpinionBoard\nStrong opinions, judged by anonymous internet users. What could possibly go wrong?"
+    },
+    {
       "id": 1744992704826,
       "votes": 0,
       "userName": "Max Mariani",
